@@ -1,9 +1,6 @@
 /*
  * Veer Desai
  * 2/9/2025
- * CSE 123
- * P1: Mini-Git
- * TA: Isayiah Lim
  */
 import java.util.*;
 
