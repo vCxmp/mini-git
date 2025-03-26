@@ -1,5 +1,4 @@
 /*
- * Veer Desai
  * 2/9/2025
  */
 import java.util.*;
